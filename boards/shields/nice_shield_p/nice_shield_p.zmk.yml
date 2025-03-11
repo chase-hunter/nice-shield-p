@@ -1,0 +1,8 @@
+file_format: "1"
+id: nice-shield-p
+name: nice!view_shield_p
+type: shield
+url: https://nicekeyboards.com/nice-view
+requires: [nice_view_header]
+features:
+  - display
